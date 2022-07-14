@@ -1,0 +1,2 @@
+# VocabularyWebScrape_Analysis
+This is a Java/SQL project using an AWS RDS server. The purpose of this project is to use Java, jsoup and manual parsing to scrape lyric content from a set of lyric pages for a hip hop series of 14 songs. The lyric information is then formatted and output to text files to then be put into an SQL script. The data is then uploaded to an AWS RDS server then analyzed. Please see the included CSV files for results.
